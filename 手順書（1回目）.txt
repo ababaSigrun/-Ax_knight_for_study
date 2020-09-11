@@ -10,7 +10,9 @@ https://water2litter.net/rum/post/pi_git_install/
 
 ③このレポジトリのfork
 
-④HelloGit.txtを編集しcommit -> push -> pullrequest
+⑤ローカルにclone
+
+⑥HelloGit.txtを編集しcommit -> push -> pullrequest
 
 
 
