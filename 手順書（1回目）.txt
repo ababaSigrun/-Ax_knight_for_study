@@ -1,0 +1,16 @@
+初回やること
+①githubに登録して、アカウントを作る。
+②gitをpcにインストールする。
+
+windows
+https://prog-8.com/docs/git-env-win
+ラズパイ
+https://water2litter.net/rum/post/pi_git_install/
+
+
+③このレポジトリのfork
+
+④HelloGit.txtを編集しcommit -> push -> pullrequest
+
+
+
