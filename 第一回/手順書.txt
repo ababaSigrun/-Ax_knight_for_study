@@ -9,10 +9,16 @@ https://water2litter.net/rum/post/pi_git_install/
 
 
 ③このレポジトリのfork
+https://github.com/ababaSigrun/-Ax_knight_for_study
+fork.pngを参照。
+
+
 
 ⑤ローカルにclone
+clone(Toriise).png
+
 
 ⑥HelloGit.txtを編集しcommit -> push -> pullrequest
-
+（txtの最後に何か文字かいて保存して）
 
 
