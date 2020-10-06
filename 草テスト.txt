@@ -1,1 +1,3 @@
 gitpodから更新する。
+https://gitpod.io/access-control/
+で権限に飛べるぞ。ＵＩ的にどう行くかは知らない。
