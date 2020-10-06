@@ -18,8 +18,25 @@ fork.pngを参照。
 clone(Toriise).png
 
 
+コマンドプロンプトで行う場合を追記する。
+cmdとうってコマンドプロンプトを付ける。
+cd 使って作業場所にするフォルダまで移動する。
+
+git clone https://github.com/ababaSigrun/-Ax_knight_for_study.git
+ここのアドレスはforkした自分のになること。
+
+
 ⑥HelloGit.txtを編集しcommit -> push -> pullrequest
 （txtの最後に何か文字かいて保存して）
+
+
+
+cmdでやるなら
+$ git add .
+$ git commit -m "任意のコメント"
+$ git push -u origin master
+
+
 
 
 
