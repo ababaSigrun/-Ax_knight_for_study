@@ -22,3 +22,7 @@ clone(Toriise).png
 （txtの最後に何か文字かいて保存して）
 
 
+
+便利そうなコマンド一覧があったのでそこを張っていく。
+
+https://qiita.com/kohga/items/dccf135b0af395f69144
