@@ -1,0 +1,7 @@
+ちなみにgitpodの権限も更新したほうがよい。
+https://gitpod.io/access-control/
+権限.png参照
+
+便利そうなコマンド一覧があったのでそこを張っていく。
+
+https://qiita.com/kohga/items/dccf135b0af395f69144

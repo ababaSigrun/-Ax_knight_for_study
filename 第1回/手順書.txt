@@ -15,9 +15,3 @@ $ git commit -m "任意のコメント"
 $ git push -u origin master
 
 
-
-
-
-便利そうなコマンド一覧があったのでそこを張っていく。
-
-https://qiita.com/kohga/items/dccf135b0af395f69144
