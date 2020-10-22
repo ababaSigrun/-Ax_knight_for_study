@@ -1,0 +1,23 @@
+初回やること
+①githubに登録して、アカウントを作る。
+
+②レポジトリをforkする。
+fork.png参照
+
+②chormeにプラグインを入れる。
+https://www.gitpod.io/docs/browser-extension/
+plugin.png参照
+
+
+cmdでやるなら
+$ git add .
+$ git commit -m "任意のコメント"
+$ git push -u origin master
+
+
+
+
+
+便利そうなコマンド一覧があったのでそこを張っていく。
+
+https://qiita.com/kohga/items/dccf135b0af395f69144
