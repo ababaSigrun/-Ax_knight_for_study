@@ -8,10 +8,5 @@ fork.png参照
 https://www.gitpod.io/docs/browser-extension/
 plugin.png参照
 
-
-cmdでやるなら
-$ git add .
-$ git commit -m "任意のコメント"
-$ git push -u origin master
-
-
+便利そうな資料を張っておく。
+https://kobeucsenshu.github.io/ideinfo/gitpod/howto.html
