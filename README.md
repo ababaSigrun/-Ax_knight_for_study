@@ -9,6 +9,6 @@
 
 第1回 環境構築
 
-第2回gitとは
+第2回gitになれる+helloworld
 
-第3回機械学習とは
+第3回if文章とfor文章理解のためのfizzbuzz
